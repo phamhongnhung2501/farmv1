@@ -1,0 +1,6 @@
+{
+  "port_RX": "COM4",
+  "baudRate_RX": 9600,
+  "port_TX": "COM3",
+  "baudRate_TX": 9600
+}
